@@ -1,4 +1,4 @@
-SRC = unity/ddunity.c\
+SRC = unity/unity.c\
 src/biosenddsor.c\
 test/test_biosensor.c\
 main.c
