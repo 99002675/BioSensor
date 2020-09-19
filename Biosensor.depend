@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1600439109 source:c:\users\user\desktop\bio\prime_number - copy\main.c
+	"test_biosensor.h"
+
+1600439203 c:\users\user\desktop\bio\prime_number - copy\test\test_biosensor.h
+
+1600451584 source:c:\users\user\desktop\bio\prime_number - copy\src\biosensor.c
+	"biosensor.h"
+	<stdio.h>
+
+1600439155 c:\users\user\desktop\bio\prime_number - copy\inc\biosensor.h
+
+1600445672 source:c:\users\user\desktop\bio\prime_number - copy\test\test_biosensor.c
+	"unity.h"
+	"biosensor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1597139704 c:\users\user\desktop\bio\prime_number - copy\unity\unity.h
+	"unity_internals.h"
+
+1597139705 c:\users\user\desktop\bio\prime_number - copy\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597139704 source:c:\users\user\desktop\bio\prime_number - copy\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1600488713 source:c:\users\user\desktop\bio\biosensor\main.c
+	"test_biosensor.h"
+
+1600487181 c:\users\user\desktop\bio\biosensor\test\test_biosensor.h
+
+1600495512 source:c:\users\user\desktop\bio\biosensor\src\biosensor.c
+	"biosensor.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1600488072 c:\users\user\desktop\bio\biosensor\inc\biosensor.h
+
+1600492159 source:c:\users\user\desktop\bio\biosensor\test\test_biosensor.c
+	"unity.h"
+	"biosensor.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1597139704 c:\users\user\desktop\bio\biosensor\unity\unity.h
+	"unity_internals.h"
+
+1597139705 c:\users\user\desktop\bio\biosensor\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597139704 source:c:\users\user\desktop\bio\biosensor\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
